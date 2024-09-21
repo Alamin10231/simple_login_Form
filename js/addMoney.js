@@ -18,4 +18,8 @@ document.getElementById('btn-add-money').addEventListener('click',function(event
     }else{
         alert("grand maru tumko")
     }
+
+    // second part start
+   
 })
+
